@@ -1,0 +1,19 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.1.0",
+  "private": true,
+  "description": "HomeLike Chatt App",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14",
+    "socket.io": "^2.0.3",
+    "express": "^4.15.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

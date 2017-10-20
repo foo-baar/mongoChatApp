@@ -1,0 +1,30 @@
+body, textarea  {
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: #eee;
+}
+.bg-info {
+  background-color: #5bc0de!important;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+#messages {
+  height: 300px;
+  overflow: auto;
+}
+.nopadding{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.form-control {
+  border: 0;
+}
+.listOflineUsers{
+  overflow: auto;
+  height: 340px;
+  display: inline-block;
+  /* height: 340px; */
+}
+.list-group-item.active{
+  background-color: #ffc107!important;;
+  border-color: #ffc107!important;;
+}
+

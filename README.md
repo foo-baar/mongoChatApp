@@ -45,7 +45,7 @@ npm start
 ## Testing Features
 
 - Open `http://localhost:3000/` & login.
-- Open new browser & use different Twitter ID to login. (Could repeat process to more users).
+- Open new browser & use different Twitter ID to login. (Could repeat process to add more users).
 - General room is default selected, messages send here will reflect to all other users.
 - Click on a user name from list to send a private message.
 - Above process and be repeated to send privates messages to available users.

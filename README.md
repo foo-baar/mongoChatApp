@@ -56,7 +56,7 @@ npm start
 
 ## Future Enhancements
 
-- Allow login with Twiiter\Facebook account (using Passport Strategy)
+- Allow login with Twitter\Facebook account (using Passport Strategy)
 - A quick peek of user profile.
 - Storing conversations in MongoDb.
 - All media files sharing between user.

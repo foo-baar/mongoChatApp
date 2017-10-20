@@ -42,6 +42,26 @@ Open new terminal Tab, then:
 npm start
 ```
 
+##Testing Features
+
+- Open `http://localhost:3000/` & login.
+- Open new browser & use different Twitter ID to login. (Could repeat process to more users).
+- General room is default selected, messages send here will reflect to all other users.
+- Click on a user name from list to send a private message.
+- Above process and be repeated to send privates messages to available users.
+- Communication with each user will be stored in-memory (session).
+- Logout will remove user from other users list also the communication will be deleted.
+- As its a in-memory, session based app, page refresh will case use the expiration to current session hence loosing all the messages.
+- Online User list is maintained at the server hence browser retains the list.
+
+##Future Enhancements
+
+- Allow login with Twiiter\Facebook account (using Passport Strategy)
+- A quick peek of user profile.
+- Storing conversations in MongoDb.
+- All media files sharing between user.
+
+
 ## Screens
 
 **Login**

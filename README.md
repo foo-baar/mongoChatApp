@@ -45,10 +45,13 @@ npm start
 ## Screens
 
 **Login**
+
 ![Alt text](https://user-images.githubusercontent.com/13655874/31836871-6704bf32-b5f4-11e7-8bfa-8e30ff882bb3.png)
 
 **General Room**
+
 ![Alt text](https://user-images.githubusercontent.com/13655874/31836909-89931a76-b5f4-11e7-8efa-4f8934613071.png)
 
 **Private Message**
+
 ![Alt text](https://user-images.githubusercontent.com/13655874/31837030-e601f82c-b5f4-11e7-93ec-7488cb71f0d0.png)

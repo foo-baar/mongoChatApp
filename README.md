@@ -31,6 +31,9 @@ npm install
 node chatServer/server.js
 ```
 
+![Alt text](https://user-images.githubusercontent.com/13655874/31836824-355fc3b4-b5f4-11e7-9312-0ae5779949d7.png)
+
+
 `Run the App`
 
 Open new terminal Tab, then:
@@ -40,3 +43,4 @@ npm start
 ```
 
 ## Folder Structure
+
